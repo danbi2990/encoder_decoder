@@ -3,7 +3,8 @@
 - Base64  
 - ASCII  
 
-## Build and Link
+## Powerpack commands
 `powerpack build --release`  
 `powerpack link`  
+`powerpack package`  
 
